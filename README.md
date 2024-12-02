@@ -8,6 +8,6 @@ This two-hour crash course was give (for the first time) by Bernd Ensing and Rob
 Here are the files:
 1. The video of the lectures by Bernd and Robert are on [this youtube video](https://youtu.be/EDlEMz5Elt0?si=adfiUDX4B_Ap0kYe).
 2. The slides of the introduction lecture by Bernd are on [this github repository](https://github.com/Ensing-Laboratory/CrashCourse_ML4Chem/blob/main/Slides_Bernd-Ensing.pdf).
-5. The jupyter notebook files of the lecture by Robert are also [here]() and [here]().
+5. The jupyter notebook files of the lecture by Robert are also [here](https://github.com/Ensing-Laboratory/CrashCourse_ML4Chem/blob/main/ai_crash_course_bayesian_optimization.ipynb) and [here](https://github.com/Ensing-Laboratory/CrashCourse_ML4Chem/blob/main/ai_crash_course_supervised_learning.ipynb).
 
 6. Enjoy!
